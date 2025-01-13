@@ -95,7 +95,6 @@ catchable
 CAVLC
 CCPA
 CCPL
-CDLR
 CELP
 CGATS
 cheatsheet
@@ -715,6 +714,7 @@ sundried
 sunsetting
 supercookie
 superdomain
+superpowered
 superscaling
 supersets
 SVCB
